@@ -10,13 +10,11 @@ The project combines visual design, interactive navigation, and AI-assisted prob
 
 ## Project Demo
 
-Download and watch the interactive concept in action.
+Explore the interactive presentation or watch a recording of the concept in action.
 
-[▶ Watch the Demo Video](Fitness_UIUX_recording.mp4)
-
-## Project Files
-
-- [PowerPoint File](Fitness%20App%20Concept.pptx)
+- [Open the Interactive Demo (PPSX)](files/Fitness%20App%20Concept.ppsx)
+- [Watch the Demo Video (MP4)](files/Fitness_UIUX_recording.mp4)
+- [View the PowerPoint Source File (PPTX)](files/Fitness%20App%20Concept.pptx)
 
 ## Why I Created It
 
@@ -52,7 +50,7 @@ I organised the information into separate sections so the user could find what t
 
 The homepage shows the daily calorie target and the required amounts of protein, carbohydrates, and fats. I wanted users to see the overall picture as soon as they opened the presentation, without having to navigate through several pages first.
 
-![Homepage showing daily calorie and macronutrient targets](Home_Page.png)
+![Homepage showing daily calorie and macronutrient targets](screenshots/Home_Page.png)
 
 ### Protein, Carbohydrates, and Fats
 
@@ -60,31 +58,62 @@ I gave each macronutrient its own page because knowing a daily target is not alw
 
 These pages connect the targets to practical food portions and alternatives. I also included options for different food preferences, so users could make substitutions while keeping their portions in line with their targets.
 
-![Protein page showing food portions and alternatives](Protein_Page.png)
-
-![Carbohydrates page showing food portions and alternatives](Carb_Page.png)
-
-![Fats page showing food portions and alternatives](Fat_Page.png)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/Protein_Page.png" alt="Protein page" width="100%">
+      <br><strong>Protein</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/Carb_Page.png" alt="Carbohydrates page" width="100%">
+      <br><strong>Carbohydrates</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/Fat_Page.png" alt="Fats page" width="100%">
+      <br><strong>Fats</strong>
+    </td>
+  </tr>
+</table>
 
 ### Master Recipes
 
 I created three master recipes for breakfast, lunch, and dinner. These provide a starting point for planning meals without restricting users to the same dishes every day. The idea was to give them a practical reference while leaving room to experiment with other recipes and ingredients.
 
-![Master recipes page showing meal ideas](Recipe_Page.png)
+![Master recipes page showing meal ideas](screenshots/Recipe_Page.png)
 
 ### Custom Transition Screens
 
 Each page has its own transition screen, designed to match the section the user is viewing. These screens provide a consistent way to navigate between sections while keeping the current page in context.
 
-![Homepage transition screen](Home_Transition.png)
-
-![Protein transition screen](Protein_Transition.png)
-
-![Carbohydrates transition screen](Carb_Transition.png)
-
-![Fats transition screen](Fat_Transition.png)
-
-![Recipes transition screen](Recipe_Transition.png)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="screenshots/Home_Transition.png" alt="Homepage transition screen" width="100%">
+      <br><strong>Home</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="screenshots/Protein_Transition.png" alt="Protein transition screen" width="100%">
+      <br><strong>Protein</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="screenshots/Carb_Transition.png" alt="Carbohydrates transition screen" width="100%">
+      <br><strong>Carbohydrates</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="screenshots/Fat_Transition.png" alt="Fats transition screen" width="100%">
+      <br><strong>Fats</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="screenshots/Recipe_Transition.png" alt="Recipes transition screen" width="100%">
+      <br><strong>Recipes</strong>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 ## Testing and Problem-Solving
 
