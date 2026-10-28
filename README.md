@@ -1,5 +1,19 @@
 # Interactive Fitness & Nutrition Concept
 
+<p align="center">
+  <img src="screenshots/Home_Page.png" alt="Interactive fitness and nutrition concept homepage" width="800">
+</p>
+
+<p align="center">
+  An interactive, app-style fitness and nutrition concept built in PowerPoint.
+</p>
+
+<p align="center">
+  <a href="files/Fitness%20App%20Concept.ppsx">Open Interactive Demo</a> ·
+  <a href="files/Fitness_UIUX_recording.mp4">Watch Video Preview</a> ·
+  <a href="files/Fitness%20App%20Concept.pptx">View Source File</a>
+</p>
+
 ## Overview
 
 This project started as a way to make fitness and nutrition information easier to understand and use. I created an interactive, app-style experience in PowerPoint, designed around a person's daily calorie and macronutrient targets.
