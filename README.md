@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="files/Fitness%20App%20Concept.ppsx">Open Interactive Demo</a> ·
+  <a href="files/Fitness%20App%20Presentation.ppsx">Open Interactive Demo</a> ·
   <a href="files/Fitness_UIUX_recording.mp4">Watch Video Preview</a> ·
   <a href="files/Fitness%20App%20Concept.pptx">View Source File</a>
 </p>
