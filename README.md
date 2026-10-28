@@ -8,6 +8,16 @@ Instead of presenting everything in a long document, I organised the information
 
 The project combines visual design, interactive navigation, and AI-assisted problem-solving to turn a basic idea into a working concept.
 
+## Project Demo
+
+Download and watch the interactive concept in action.
+
+[▶ Watch the Demo Video](Fitness_UIUX_recording.mp4)
+
+## Project Files
+
+- [PowerPoint File](Fitness%20App%20Concept.pptx)
+
 ## Why I Created It
 
 I originally prepared fitness and nutrition guidance for a friend who wanted help with their diet. I wrote down the information, including calorie targets, macronutrient requirements, food portions, and meal ideas.
